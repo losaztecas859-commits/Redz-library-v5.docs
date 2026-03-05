@@ -13,7 +13,7 @@ local redzlib = {
 	Darker = {
 	["Color Hub 1"] = ColorSequence.new({
 		ColorSequenceKeypoint.new(0.00, Color3.fromRGB(20, 40, 70)),   -- Azul escuro claro em cima
-		ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 90, 180))     -- Preto levemente cinza embaixo
+		ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 60, 120)     -- Preto levemente cinza embaixo
 	}),
 	
 	["Color Hub 2"] = Color3.fromRGB(10, 10, 10),   -- Fundo das tabs preto escuro
